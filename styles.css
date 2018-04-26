@@ -1,0 +1,14 @@
+body {
+  background-color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+div.image img {
+  width: 30vw;
+  border-radius: 50%;
+  height: auto;
+}
+div {
+  font: Helvetica;
+}
